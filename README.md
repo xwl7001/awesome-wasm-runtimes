@@ -68,10 +68,7 @@ This file contains a list of non-web wasm runtimes in development in no particul
 30. **[m3](https://github.com/soundandform/m3)** - C
 
 31. **[go-ext-wasm](https://github.com/wasmerio/go-ext-wasm)** - Go
+
   🐹🕸️ Go library to run WebAssembly binaries. https://medium.com/wasmer/announcing-the-fastest-webassembly-runtime-for-go-wasmer-19832d77c050
 
-### License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Steve Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
