@@ -70,4 +70,6 @@ This file contains a list of non-web wasm runtimes in development in no particul
 31. **[go-ext-wasm](https://github.com/wasmerio/go-ext-wasm)** - Go 
   - 🐹🕸️ Go library to run WebAssembly binaries. [document](https://medium.com/wasmer/announcing-the-fastest-webassembly-runtime-for-go-wasmer-19832d77c050)
 
+32. **[wasm.dart](https://github.com/drydart/wasm.dart)** - Dart
+  - WebAssembly virtual machine for Dart [work in progress] https://pub.dartlang.org/packages/wasm
 
