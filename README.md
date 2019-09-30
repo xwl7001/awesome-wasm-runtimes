@@ -73,3 +73,5 @@ This file contains a list of non-web wasm runtimes in development in no particul
 32. **[wasm.dart](https://github.com/drydart/wasm.dart)** - Dart
   - WebAssembly virtual machine for Dart [work in progress] https://pub.dartlang.org/packages/wasm
 
+33. **[Wee8 / wasm-c-api](https://github.com/WebAssembly/wasm-c-api)** - C/C++, V8
+
