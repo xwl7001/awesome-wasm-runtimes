@@ -75,3 +75,6 @@ This file contains a list of non-web wasm runtimes in development in no particul
 
 33. **[Wee8 / wasm-c-api](https://github.com/WebAssembly/wasm-c-api)** - C/C++, V8
 
+34. **[php-ext-wasm](https://github.com/wasmerio/php-ext-wasm)** - PHP
+
+35. **[wasvm](https://github.com/kogai/wasvm)** - Rust
