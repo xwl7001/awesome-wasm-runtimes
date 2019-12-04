@@ -78,3 +78,5 @@ This file contains a list of non-web wasm runtimes in development in no particul
 34. **[php-ext-wasm](https://github.com/wasmerio/php-ext-wasm)** - PHP
 
 35. **[wasvm](https://github.com/kogai/wasvm)** - Rust
+
+36. [TWVM](https://github.com/Becavalier/TWVM) A tiny and efficient WebAssembly virtual machine.
